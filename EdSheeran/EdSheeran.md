@@ -1,6 +1,6 @@
 # Ed Sheeran
 
-I wish I was Ed Sheeran for the _'One'_,\
+I wish I were Ed Sheeran for the _'One'_,\
 I'd _'Sing'_ _'Thinking Out Loud'_ to her.
 
 I'll ask her to _'Sing'_ _'Give me Love'_.\

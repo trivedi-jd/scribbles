@@ -3,7 +3,7 @@
 I wish I was Ed Sheeran for the _'One'_,\
 I'd _'Sing'_ _'Thinking Out Loud'_ to her.
 
-I'll Ask her to _'Sing'_ _'Give me Love'_.\
+I'll ask her to _'Sing'_ _'Give me Love'_.\
 Even if she sang of offkey,\
 I know It will be _'Perfect'_ for me.
 
@@ -17,7 +17,7 @@ She is dancing in the streets like a _'Galway Girl'_,\
 With the _'Supermarket Flowers'_ I bought for her
 
 Imagination may sound _'Happier'_.\
-The _'Afire Love'_ I contain in my heart for her.\
+Because of the _'Afire Love'_ I contain in my heart for her.\
 But in reality _'I'm a Mess'_.\
 I am 'Drunk' all day long and cry all night\
 Looking at the one blur _'Photograph'_ of her\
@@ -37,8 +37,9 @@ _'I see the fire'_ over the cigarette.\
 I want to be a _'New Man'_.\
 I want to _'Save Myself'_.
 
-I am searching for the _'Eraser'_\
-Which will erase you from my memories.
+Hence, I am searching for the _'Eraser'_\
+Which can erase you from my memories.
 
 I _'Don't'_ know whether it's an end or a beginning.\
-But what I know is that _'All of the Stars'_ weren't aligned when you _'Cross Me'_.
+But what I know is that _'All of the Stars'_ weren't aligned,\
+When you _'Cross Me'_.

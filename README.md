@@ -1,9 +1,8 @@
 # scribbles
 GitHub repo to have my writing pieces version controlled.
 
+![](./images/nirma-statue.jpg)
+
 ## Guide to Read My Scribbles
-1. ___This is not an empty repo___ _(For those who are not versed with GitHub)_
-2. All branches have the corresponding piece in it.
-3. One must navigate to the branch and use the `Go to file` option.
-4. Find the respective folder and you can read the piece with `<XYZ>.md` file.
-5. This repo is _read-only_. Except for [trivedi-jd](https://github.com/trivedi-jd).
+1. All directories have the corresponding piece in it.
+2. Find the respective piece in the directory can find read the piece with `<NameOfPiece>.md` file.
